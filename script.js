@@ -5,5 +5,5 @@ function flameToggle() {
     this.classList.toggle('out');
 }
 
-alert("Happy Birthday! 🥳🥳")
+alert("Happy Birthday Stivo! 🥳🥳")
 alert("Blow the candle and make a wish😎 Touch it in this case😅😅")
